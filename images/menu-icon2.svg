@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 132" width="150" height="132">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #300087;stroke-linecap:square;stroke-width: 4.5 } 
+	</style>
+	<g id="Privacy">
+		<g id="Menu/Specialisten - wit">
+			<g id="Menu/Sepcialisten - blauw">
+				<g id="Hamburger menu">
+					<path id="Line" class="shp0" d="M52.99 48.79L97.01 48.79" />
+					<path id="Line" class="shp0" d="M52.99 63L86.51 63" />
+					<path id="Line" class="shp0" d="M52.99 77.21L97.01 77.21" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
